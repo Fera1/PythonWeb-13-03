@@ -1,0 +1,23 @@
+    1  pip install flask
+    2  pip install flaskpip install flaskpip install flaskpip install flask
+    3  flask run
+    4  clear
+    5  pip freeze
+    6  pip freeze > requirements.txt
+    7  pip install -r requirements.txt
+    8  clear
+    9  ls
+   10  flask run
+   11  git status
+   12  git add .gitignore.txt requirements.txt
+   13  git add .gitignore requirements.txt
+   14  git commit -m
+   15  clear
+   16  echo $PATH
+   17  pip install python-dotenv
+   18  dotenv --version
+   19  pip freeze
+   20  pip freeze > requirements.txt
+   21  clear
+   22  flask run
+   23  history > comandos.txt
